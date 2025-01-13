@@ -1,0 +1,16 @@
+﻿@model OrdersMVC.Models.OrderModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<h2>Orders Page</h2>
+<div>
+    @Html.ActionLink("Add order", "Add") 
+    <br/>
+
+    @* <input type="text" name="searchString" placeholder="Enter orderID or Name to search..." /> *@
+    @Html.ActionLink("Search orders", "Search"); 
+    
+</div>

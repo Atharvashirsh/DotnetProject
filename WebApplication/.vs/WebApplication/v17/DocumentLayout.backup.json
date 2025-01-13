@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Dotnet\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC0E7A6-D873-4CF2-942D-F07FE2A844A0}|MVCApp1\\MVCApp1.csproj|f:\\dotnet\\webapplication\\mvcapp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC0E7A6-D873-4CF2-942D-F07FE2A844A0}|MVCApp1\\MVCApp1.csproj|solutionrelative:mvcapp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC0E7A6-D873-4CF2-942D-F07FE2A844A0}|MVCApp1\\MVCApp1.csproj|f:\\dotnet\\webapplication\\mvcapp1\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC0E7A6-D873-4CF2-942D-F07FE2A844A0}|MVCApp1\\MVCApp1.csproj|solutionrelative:mvcapp1\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\Dotnet\\WebApplication\\MVCApp1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVCApp1\\Models\\Employee.cs",
+              "ToolTip": "F:\\Dotnet\\WebApplication\\MVCApp1\\Models\\Employee.cs",
+              "RelativeToolTip": "MVCApp1\\Models\\Employee.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwEwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:47:17.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "F:\\Dotnet\\WebApplication\\MVCApp1\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "MVCApp1\\Controllers\\EmployeesController.cs",
+              "ToolTip": "F:\\Dotnet\\WebApplication\\MVCApp1\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "MVCApp1\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:31:35.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Dotnet\\OrdersMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|f:\\dotnet\\ordersmvc\\ordersmvc\\views\\orders\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|solutionrelative:ordersmvc\\views\\orders\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|f:\\dotnet\\ordersmvc\\ordersmvc\\views\\orders\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|solutionrelative:ordersmvc\\views\\orders\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|f:\\dotnet\\ordersmvc\\ordersmvc\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|solutionrelative:ordersmvc\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|f:\\dotnet\\ordersmvc\\ordersmvc\\models\\orderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|solutionrelative:ordersmvc\\models\\orderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|f:\\dotnet\\ordersmvc\\ordersmvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|solutionrelative:ordersmvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|f:\\dotnet\\ordersmvc\\ordersmvc\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|solutionrelative:ordersmvc\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|f:\\dotnet\\ordersmvc\\ordersmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC9E2EA-9C65-4132-A870-8157C6865DDC}|OrdersMVC\\OrdersMVC.csproj|solutionrelative:ordersmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Program.cs",
+              "RelativeDocumentMoniker": "OrdersMVC\\Program.cs",
+              "ToolTip": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Program.cs",
+              "RelativeToolTip": "OrdersMVC\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:37:01.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Views\\Orders\\Search.cshtml",
+              "RelativeDocumentMoniker": "OrdersMVC\\Views\\Orders\\Search.cshtml",
+              "ToolTip": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Views\\Orders\\Search.cshtml",
+              "RelativeToolTip": "OrdersMVC\\Views\\Orders\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T12:35:27.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Views\\Orders\\Add.cshtml",
+              "RelativeDocumentMoniker": "OrdersMVC\\Views\\Orders\\Add.cshtml",
+              "ToolTip": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Views\\Orders\\Add.cshtml",
+              "RelativeToolTip": "OrdersMVC\\Views\\Orders\\Add.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T12:14:29.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "OrdersMVC\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "OrdersMVC\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T12:01:40.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrdersMVC\\Controllers\\OrdersController.cs",
+              "ToolTip": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrdersMVC\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:59:55.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDAL.cs",
+              "DocumentMoniker": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Models\\OrderDAL.cs",
+              "RelativeDocumentMoniker": "OrdersMVC\\Models\\OrderDAL.cs",
+              "ToolTip": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Models\\OrderDAL.cs",
+              "RelativeToolTip": "OrdersMVC\\Models\\OrderDAL.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAApwDMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:43:32.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "OrdersMVC\\Models\\OrderModel.cs",
+              "ToolTip": "F:\\Dotnet\\OrdersMVC\\OrdersMVC\\Models\\OrderModel.cs",
+              "RelativeToolTip": "OrdersMVC\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:40:35.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
